@@ -10,3 +10,7 @@ __pycache__/
 *.pem
 
 data/raw/
+
+# Allow ChurnZero project datasets
+!data/ChurnZero_dataset_v1.csv
+!data/ChurnZero_test_v1.csv
